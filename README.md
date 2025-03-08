@@ -9,13 +9,13 @@ O dataset utilizado neste projeto está disponível no seguinte link:
 
 Os arquivos principais que compõem o dataset são:
 
-📌 **links.csv**: Mapeia os filmes para seus identificadores no MovieLens, IMDb e TMDb.
+📌 ```links.csv```: Mapeia os filmes para seus identificadores no MovieLens, IMDb e TMDb.
 
-📌 **movies.csv**: Lista os títulos dos filmes junto com seus respectivos gêneros.
+📌 ```movies.csv```: Lista os títulos dos filmes junto com seus respectivos gêneros.
 
-📌 **ratings.csv**: Armazena as avaliações dos usuários, que variam de 0,5 a 5 estrelas.
+📌 ```ratings.csv```: Armazena as avaliações dos usuários, que variam de 0,5 a 5 estrelas.
 
-📌 **tags.csv**: Registra marcações personalizadas (tags) que os usuários associaram aos filmes.
+📌 ```tags.csv```: Registra marcações personalizadas (tags) que os usuários associaram aos filmes.
 
 ### Resultados Esperados
 
