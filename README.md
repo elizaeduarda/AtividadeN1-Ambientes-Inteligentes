@@ -1,4 +1,3 @@
-# Atividade N1 - Ambientes-Inteligentes
 # Projeto de Análise de Dados de Filmes
 
 Este projeto tem como objetivo explorar e analisar um conjunto de dados que contém informações detalhadas sobre filmes, avaliações, tags e links. O dataset é composto por quatro arquivos principais, cada um fornecendo insights específicos sobre os filmes e as interações dos usuários.
