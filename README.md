@@ -17,6 +17,7 @@ Os arquivos principais que compõem o dataset são:
 
 📌 **tags.csv**: Registra marcações personalizadas (tags) que os usuários associaram aos filmes.
 
-### Objetivo
+### Resultados Esperados
 
-O principal objetivo deste projeto é realizar uma análise detalhada dos dados disponíveis, explorando as relações entre os filmes, suas avaliações e as tags atribuídas pelos usuários. A análise visa extrair insights valiosos que possam contribuir para uma melhor compreensão das preferências e comportamentos dos usuários em relação aos filmes.
+Ao final da análise, espera-se obter uma compreensão mais clara das características dos filmes e das interações dos usuários. Esses insights podem ser aplicados em sistemas de recomendação, estudos de mercado ou análises de comportamento do consumidor.
+
